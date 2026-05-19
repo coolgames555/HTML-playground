@@ -2,7 +2,19 @@ body {
   background-color: #1d1e1f;
 }
 
-
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px;
+  }
+.button {
+  width: 200px;
+  height: 100px;
+  background-color: hsl(0, 0%, 23%);
+  border-radius: 15px;
+  box-shadow: 0 0 20px 5px #216bff
+}
 .smol {
   font-family: "Bitcount Grid Single", system-ui;
   font-optical-sizing: auto;
