@@ -11,9 +11,9 @@ body {
 .button {
   width: 200px;
   height: 100px;
-  background-color: hsl(0, 0%, 23%);
+  background-color: hsl(214, 78%, 21%);
   border-radius: 15px;
-  box-shadow: 0 0 20px 5px #216bff
+  box-shadow: 0 0 20px 5px #216bff;
 }
 .smol {
   font-family: "Bitcount Grid Single", system-ui;
