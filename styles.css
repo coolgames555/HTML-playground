@@ -1,5 +1,5 @@
 body {
-  background-color: hex #1d1e1f;
+  background-color: #1d1e1f;
 }
 
 
@@ -10,7 +10,7 @@ body {
   font-style: normal;
   font-size: 14px;
   font-variation-settings:
-  color: hex #5b2cc9,
+  color: #5b2cc9;
     "slnt" 0,
     "CRSV" 0.5,
     "ELSH" 0,
@@ -18,8 +18,8 @@ body {
 }
 .chonk {
   font-family: "Oi", serif;
-  font-size: 64px;#216bff
+  font-size: 64px;
   font-weight: 400;
-  color: hex #216bff
+  color: #216bff;
   font-style: normal;
 }
